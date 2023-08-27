@@ -3,6 +3,7 @@
 void
 func()
 {
+	std::cout << "test" << std::endl;
 	return ;
 }
 
