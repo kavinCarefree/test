@@ -1,9 +1,9 @@
 #include <iostream>
 
-void
+int
 func()
 {
-	return ;
+	return -1;
 }
 
 int
